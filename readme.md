@@ -2,11 +2,13 @@
 Este é um aplicativo React Native desenvolvido com TypeScript chamado Bat-Sinal. O aplicativo permite que os usuários peçam ajuda ao Batman enviando um formulário. App para fins didáticos como parte desafio do curso Dio.me
 
 ### Screenshot
+<p float="left">
 <img src="./assets/1.png" width="300" >
 <img src="./assets/2.png" width="300" >
 <img src="./assets/3.png" width="300" >
 <img src="./assets/4.png" width="300" >
 <img src="./assets/5.png" width="300" >
+</p>
 
 
 ### Recursos
