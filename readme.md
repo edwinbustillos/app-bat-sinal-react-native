@@ -26,7 +26,7 @@ Este é um aplicativo React Native desenvolvido com TypeScript chamado Bat-Sinal
 ### Como executar o projeto
 Primeiro, clone o repositório para a sua máquina local usando git:
 ```
-git clone https://github.com/edwinbustillos/bat-sinal-react-native.git
+git clone https://github.com/edwinbustillos/app-bat-sinal-react-native.git
 ```
 
 Navegue até o diretório do projeto:
